@@ -1,6 +1,7 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="100" />
   <option name="SOFT_MARGINS" value="120" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>

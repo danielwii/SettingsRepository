@@ -1,0 +1,22 @@
+<templateSet group="other">
+  <template name="/--" value="// --------------------------------------------------------------&#10;// $END$&#10;// --------------------------------------------------------------" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="#--" value="# --------------------------------------------------------------&#10;# $END$&#10;# --------------------------------------------------------------" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="/==" value="// ==============================================================&#10;// $END$&#10;// ==============================================================" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="#==" value="# ==============================================================&#10;# $END$&#10;# ==============================================================" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
