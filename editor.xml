@@ -2,4 +2,12 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern useCustomColors="true" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="c02411" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="EFFECT_TYPE" value="1" />
+    </pattern>
+  </component>
 </application>
