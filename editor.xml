@@ -2,15 +2,12 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
   </component>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
-  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern useCustomColors="true" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="c01d22" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      <option name="FOREGROUND" value="c02411" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="EFFECT_TYPE" value="1" />
     </pattern>
   </component>
 </application>
