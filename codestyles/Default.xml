@@ -69,7 +69,6 @@
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
-    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="ALIGN_CONSECUTIVE_VARIABLE_DECLARATIONS" value="true" />
     <option name="ALIGN_SUBSEQUENT_SIMPLE_METHODS" value="true" />
