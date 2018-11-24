@@ -2,6 +2,9 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
   </component>
+  <component name="EditorSettings">
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern useCustomColors="true" pattern="\bfixme\b.*">
