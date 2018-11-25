@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>23</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -38,7 +38,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'spring-buffs [ShortIdGenerator.main()]'</Description>
-          <Count>11</Count>
+          <Count>32</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'spring-buffs [SimpleIdGenerator.main()]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'spring-buffs [SimpleIdGenerator.main()]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'spring-buffs [SnowFlakeIdWorker.main()]'">
@@ -86,7 +94,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'spring-buffs [ShortIdGenerator.main()]'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'spring-buffs [test]'">
