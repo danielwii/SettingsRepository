@@ -17,6 +17,14 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'⌘1'</ShortCut>
+          <Description>Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
