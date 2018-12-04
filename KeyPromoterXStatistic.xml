@@ -185,12 +185,26 @@
           <Description>Gradle</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Problems">
+        <Item>
+          <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
+          <Description>Problems</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'spring-buffs [classes]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'spring-buffs [classes]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
