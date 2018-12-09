@@ -179,6 +179,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Event Log">
+        <Item>
+          <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
+          <Description>Event Log</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Gradle">
         <Item>
           <IdeaActionID>ActivateGradleToolWindow</IdeaActionID>
