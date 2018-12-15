@@ -97,6 +97,9 @@
       </groups>
     </arrangement>
   </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
