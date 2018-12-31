@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="security" type="Properties" />
     </extensionMap>
   </component>
 </application>

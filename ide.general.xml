@@ -4,5 +4,6 @@
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
+    <entry key="ide.editor.tabs.open.at.the.end" value="true" />
   </component>
 </application>
