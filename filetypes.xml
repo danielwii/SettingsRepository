@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="subscriber" type="PLAIN_TEXT" />
       <mapping ext="nunj" type="Twig" />
     </extensionMap>
