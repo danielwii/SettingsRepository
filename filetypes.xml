@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="server" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="auth" type="PLAIN_TEXT" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
