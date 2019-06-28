@@ -9,6 +9,7 @@
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="standalone" type="PLAIN_TEXT" />
+      <mapping ext="rkestate" type="PLAIN_TEXT" />
       <mapping ext="subscriber" type="PLAIN_TEXT" />
       <mapping ext="nunj" type="Twig" />
     </extensionMap>
