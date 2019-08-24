@@ -13,6 +13,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.nunj</mask>
+    <mask>*.*ml</mask>
+    <mask>*.ts</mask>
     <mask>*.graphql</mask>
   </component>
 </application>

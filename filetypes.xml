@@ -1,15 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="server" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="cache" type="PLAIN_TEXT" />
-      <mapping ext="subscriber" type="PLAIN_TEXT" />
-      <mapping ext="nunj" type="Twig" />
-      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
