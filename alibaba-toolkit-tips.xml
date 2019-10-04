@@ -5,6 +5,7 @@
     <entry projectName="asuna-admin" firstStartUp="false" />
     <entry projectName="hangouts-app" firstStartUp="false" />
     <entry projectName="hangouts-server" firstStartUp="false" />
+    <entry projectName="node-buffs" firstStartUp="false" />
     <entry projectName="sia3" firstStartUp="false" />
   </component>
 </application>
