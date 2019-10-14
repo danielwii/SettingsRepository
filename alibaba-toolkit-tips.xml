@@ -8,6 +8,7 @@
     <entry projectName="hangouts-app" firstStartUp="false" />
     <entry projectName="hangouts-server" firstStartUp="false" />
     <entry projectName="node-buffs" firstStartUp="false" />
+    <entry projectName="pulumi-quickstart" firstStartUp="false" />
     <entry projectName="sia3" firstStartUp="false" />
   </component>
 </application>
