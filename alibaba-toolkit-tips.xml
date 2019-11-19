@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/Development/Code/Crystal" firstStartUp="false" />
     <entry projectName="Crystal" firstStartUp="false" />
     <entry projectName="asuna-admin" firstStartUp="false" />
     <entry projectName="asuna-im" firstStartUp="false" />
