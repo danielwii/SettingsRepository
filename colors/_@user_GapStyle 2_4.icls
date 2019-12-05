@@ -4,12 +4,13 @@
     <property name="created">2019-12-04T16:27:57</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-04T16:31:46</property>
+    <property name="modified">2019-12-05T13:49:23</property>
     <property name="originalScheme">GapStyle 2.4</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
