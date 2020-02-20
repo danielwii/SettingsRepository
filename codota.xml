@@ -11,7 +11,7 @@
     <option name="isMethodCompletionsPercentageSet" value="true" />
     <option name="featureFlags">
       <map>
-        <entry key="js-deep-completions" value="true" />
+        <entry key="js-deep-completions" value="false" />
       </map>
     </option>
     <option name="testedFeatureFlags">
