@@ -19,5 +19,10 @@
         <option value="js-deep-completions" />
       </set>
     </option>
+    <option name="everTurnedOnFeatureFlags">
+      <set>
+        <option value="js-deep-completions" />
+      </set>
+    </option>
   </component>
 </application>
