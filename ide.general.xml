@@ -6,4 +6,11 @@
     <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
     <entry key="ide.tree.collapse.recursively" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
