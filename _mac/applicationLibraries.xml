@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="firebase-app" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_firebasejs_7.19.1_firebase-app.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_firebasejs_7.19.1_firebase-app.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="scala-sdk-2.12.6" type="Scala">
       <properties>
         <compiler-classpath>
@@ -14,9 +25,6 @@
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.6-sources.jar!/" />
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/" />
       </CLASSES>
-      <JAVADOC>
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-2.12.6-javadoc.jar!/" />
-      </JAVADOC>
       <SOURCES />
     </library>
   </component>
