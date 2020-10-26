@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/http-proxy" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="firebase-app" type="javaScript">
       <properties>
         <sourceFilesUrls>
