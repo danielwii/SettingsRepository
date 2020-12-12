@@ -6,6 +6,7 @@
       <mapping pattern="random-articles" type="PLAIN_TEXT" />
       <mapping ext="bhs" type="PLAIN_TEXT" />
       <removed_mapping ext="gql" approved="true" type="Graql" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
